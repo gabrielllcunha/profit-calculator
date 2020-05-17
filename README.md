@@ -3,11 +3,11 @@
 <b>SPECIFICATIONS:</b><br>
 Five user informations will be requested:<br>
 <ul>
-  <li>Active: Company code on the Bovespa. Example: (ITUB4)</li><br>
-  <li>Net Income: Net income of a company in the period.</li><br>
-  <li>Equity: Value of a company's Equity.</li><br>
-  <li>Number of shares issued on the stock exchange: Number of shares of this company listed on the stock exchange.</li><br>
-  <li>Current Price: Current price of an asset on the stock exchange.</li><br>
+  <li>Active: Company code on the Bovespa. Example: (ITUB4)</li>
+  <li>Net Income: Net income of a company in the period.</li>
+  <li>Equity: Value of a company's Equity.</li>
+  <li>Number of shares issued on the Stock Exchange: Number of shares of this company listed on the stock exchange.</li>
+  <li>Current Price: Current price of an asset on the stock exchange.</li>
 </ul>
 
 
