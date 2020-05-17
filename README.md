@@ -10,14 +10,13 @@ Five user informations will be requested:<br>
   <li>Current Price: Current price of an asset on the stock exchange.</li>
 </ul>
 
-
 After that, five indicators will be displayed according to the data that the user informed:<br>
 <ul>
-  <li>LPA = Earnings per share</li><br>
-  <li>P/L = Profit Price</li><br>
-  <li>ROE = Return on Equity</li><br>
-  <li>VPA = Book value per share</li><br>
-  <li>P/VP = Price over Book Value</li><br>
+  <li>LPA = Earnings per share</li>
+  <li>P/L = Profit Price</li>
+  <li>ROE = Return on Equity</li>
+  <li>VPA = Book value per share</li>
+  <li>P/VP = Price over Book Value</li>
 </ul>
 
 <b>STUDENT:</b><br>
