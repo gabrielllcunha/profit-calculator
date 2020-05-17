@@ -19,5 +19,7 @@ After that, five indicators will be displayed according to the data that the use
   <li>P/VP = Price over Book Value</li>
 </ul>
 
+<hr>
+
 <b>STUDENT:</b><br>
 Gabriel Cunha (00205174)
